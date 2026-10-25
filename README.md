@@ -253,7 +253,7 @@ gh skill publish                                 # 校验并发布技能
 -   [native-feel-skill](https://github.com/yetone/native-feel-skill)：跨平台桌面应用的原生体验设计指南
 
 
--   [onboard](https://github.com/Keviniscool-boy/onboard)：把交接材料（代码/文档/PDF/Excel/PPT）拆成带出处的项目总览和三档学习路径，默认带学，规则经陌生 agent 实测
+-   [onboard](https://github.com/Keviniscool-boy/onboard)：把交接材料（代码/文档/PDF/Excel/PPT）拆成带出处的项目总览和三档学习路径；理解目标带学，README 等交付目标直接应用，规则经陌生 agent 实测
 ### 内容创作
 
 -   [baoyu-skills](https://github.com/JimLiu/baoyu-skills)：宝玉的自用 SKills 集合，包括公众号写作、PPT 制作等
